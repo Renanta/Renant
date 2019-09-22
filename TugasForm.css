@@ -1,0 +1,79 @@
+body{
+  background-image: url("foto.jpg") ;
+  display: block;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 24pt;
+  font-family: serif;
+}
+.atas{
+  border :none;
+  height: 700px;
+  width: 600px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color:none;
+  margin:auto;
+  text-align: center;
+  display: block;
+  display: inline-block;
+  position:
+}
+form{
+  margin:auto;
+  border-radius: ;
+  border: none;10px;
+  height: 450px;
+  width: 450px;
+  background-color:rgba(20, 143, 164, 0.73);
+  text-align:center;
+  display: inline-block;
+  display: block;
+}
+table{
+  display: inline-block;
+  text-align: left;
+}
+input{
+  border: none;
+  border-radius: 5px;
+}
+.tabel{
+  display: inline-block;
+  margin-top: 50px;
+}
+.button{
+  margin-top: 50px;
+  display: inline-block;
+}
+button{
+  border-radius: 5px;
+}
+th{
+  font-family:serif;
+  font-size: 12pt;
+  height: 30px;
+  width: 150px;
+}
+
+.bawah{
+  border: none ;
+  border-radius: 10px;
+  background-color: rgba(12, 39, 84, 0.81);
+  padding: 10px;
+}
+p{
+  text-align: left;
+  font-size: 18pt;
+  font-family: serif;
+}
+img{
+  border: none ;
+  border-radius: 5px;
+  position: relative;
+  float:  right;
+  height: 100px;
+  width: 100px;
+}
